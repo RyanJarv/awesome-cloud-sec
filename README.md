@@ -4,18 +4,15 @@ Awesome list for cloud (mostly AWS), security, pentesting related projects and l
 NOTE: This isn't an endorsement of any of these projects. I'm mostly using this as a way to keep track of interesting projects I come across.
 
 
-* IAM
-  * https://github.com/prisma-cloud/IAMFinder
-  
 * AWS
-  * Pentest
+  * Offensive Security
     * General
       * [aws_pwn](https://github.com/dagrz/aws_pwn) -- A collection of AWS penetration testing junk.
     * IAM
       * [IAMFinder](https://github.com/prisma-cloud/IAMFinder) -- Enumerates and finds users and IAM roles in a target AWS account.
       * [enumerate-iam](https://github.com/andresriancho/enumerate-iam) -- Brute force enumeration of permissions associated with AWS credential set.
-    * Lambda
-      * [lsh](https://github.com/tobilg/lsh) -- Run interactive shell commands on AWS Lambda
+  * Lambda
+    * [lsh](https://github.com/tobilg/lsh) -- Run interactive shell commands on AWS Lambda
   * Resource analysis
     * [awspx](https://github.com/FSecureLABS/awspx) -- Graph-based tool for visualizing effective access and resource relationships.
     * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- [Graphing] Analyze your Amazon Web Services (AWS) environments
