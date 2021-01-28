@@ -18,6 +18,8 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- [Graphing] Analyze your Amazon Web Services (AWS) environments
     * [cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) -- [Graphing] Discover resources in the cloud environment.
       * Note: Takes advantage of existing botocore definitions for discovery.
+    * [PMapper](https://github.com/nccgroup/PMapper) -- A tool for quickly evaluating IAM permissions in AWS.
+    * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
   * Linting/Static Analysis
       * [parliament](https://github.com/duo-labs/parliament) -- AWS IAM linting library
   * Auditing/Least privilege
