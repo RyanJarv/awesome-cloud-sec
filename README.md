@@ -8,6 +8,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * Info
     * [aws_exposable_resources](https://github.com/SummitRoute/aws_exposable_resources) -- Resource types that can be publicly exposed on AWS
     * [aws_managed_policies](https://github.com/z0ph/aws_managed_policies) -- [MAMIP] Monitor AWS Managed IAM Policies Changes
+    * [Security Tool Comparison](https://summitroute.github.io/aws_research/security_tool_comparison.html) -- Comparisons between various security tools.
   * Offensive Security
     * [aws_pwn](https://github.com/dagrz/aws_pwn) -- A collection of AWS penetration testing junk.
     * [IAMFinder](https://github.com/prisma-cloud/IAMFinder) -- Enumerates and finds users and IAM roles in a target AWS account.
