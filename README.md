@@ -13,7 +13,6 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
       * [enumerate-iam](https://github.com/andresriancho/enumerate-iam) -- Brute force enumeration of permissions associated with AWS credential set.
   * General Utilities
     * [coldsnap](https://github.com/awslabs/coldsnap) -- A command line interface for Amazon EBS snapshots
-  * Lambda
     * [lsh](https://github.com/tobilg/lsh) -- Run interactive shell commands on AWS Lambda
   * Resource analysis
     * [awspx](https://github.com/FSecureLABS/awspx) -- Graph-based tool for visualizing effective access and resource relationships.
