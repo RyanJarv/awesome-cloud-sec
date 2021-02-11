@@ -31,6 +31,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [repokid](https://github.com/Netflix/repokid) -- IAM least privilege service
     * [AirIAM](https://github.com/bridgecrewio/AirIAM) -- Least privilege AWS IAM Terraformer.
     * [cloudtracker](https://github.com/duo-labs/cloudtracker) -- Finds over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
+    * [iamlive](https://github.com/iann0036/iamlive) -- Generate a basic IAM policy from AWS client-side monitoring (CSM)
 
 * Other
  * Azure
