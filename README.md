@@ -40,6 +40,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
       * Related: [KaiMonkey](https://github.com/accurics/KaiMonkey)  
   * [AirIAM](https://github.com/bridgecrewio/AirIAM) -- Least privilege AWS IAM Terraformer.
   * [terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) -- AWS Organizations Service Control Policies (SCPs) for Terraform.
+  * [cloudsplaining](https://github.com/salesforce/cloudsplaining) -- Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
   
 
 
