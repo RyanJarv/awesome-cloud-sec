@@ -29,10 +29,19 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [prowler](https://github.com/toniblyx/prowler) -- Best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
     * [policy_sentry](https://github.com/salesforce/policy_sentry) -- IAM Least Privilege Policy Generator.
     * [repokid](https://github.com/Netflix/repokid) -- IAM least privilege service
-    * [AirIAM](https://github.com/bridgecrewio/AirIAM) -- Least privilege AWS IAM Terraformer.
     * [cloudtracker](https://github.com/duo-labs/cloudtracker) -- Finds over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
     * [iamlive](https://github.com/iann0036/iamlive) -- Generate a basic IAM policy from AWS client-side monitoring (CSM)
     * [aws-leastprivilege](https://github.com/iann0036/aws-leastprivilege) -- Generates an IAM policy for the CloudFormation service role that adheres to least privilege.
+
+* Terraform
+  * Terraform Static Analysis
+    * [checkov](https://github.com/bridgecrewio/checkov) -- Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+    * [terrascan](https://github.com/accurics/terrascan)
+      * Related: [KaiMonkey](https://github.com/accurics/KaiMonkey)  
+  * [AirIAM](https://github.com/bridgecrewio/AirIAM) -- Least privilege AWS IAM Terraformer.
+  * [terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) -- AWS Organizations Service Control Policies (SCPs) for Terraform.
+  
+
 
 * Other
   * [DumpsterDiver](https://github.com/securing/DumpsterDiver) -- Tool to search secrets in various filetypes.
@@ -42,10 +51,6 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 
  * Containers
    * [deepce](https://github.com/stealthcopter/deepce/) -- Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE).
-
- * Terraform Static Analysis
-     * [terrascan](https://github.com/accurics/terrascan)
-       * Related: [KaiMonkey](https://github.com/accurics/KaiMonkey)    
 
  * Networking
    * [proxify](https://github.com/projectdiscovery/proxify) -- Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
@@ -57,7 +62,6 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
    * [serverlessish](https://github.com/glassechidna/serverlessish) -- Run the same Docker images in AWS Lambda and AWS ECS
 
  * Infrastructure
-   * [terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) -- AWS Organizations Service Control Policies (SCPs) for Terraform.
    * [website-openid-proxy](https://github.com/wolfeidau/website-openid-proxy) -- https://github.com/wolfeidau/website-openid-proxy
 
  * Config
