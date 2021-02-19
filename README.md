@@ -43,7 +43,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   
 
 
-* Other
+* Secret Scanning
   * [DumpsterDiver](https://github.com/securing/DumpsterDiver) -- Tool to search secrets in various filetypes.
 
  * Azure
