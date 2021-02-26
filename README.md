@@ -14,6 +14,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [aws_pwn](https://github.com/dagrz/aws_pwn) -- A collection of AWS penetration testing junk.
     * [IAMFinder](https://github.com/prisma-cloud/IAMFinder) -- Enumerates and finds users and IAM roles in a target AWS account.
     * [enumerate-iam](https://github.com/andresriancho/enumerate-iam) -- Brute force enumeration of permissions associated with AWS credential set.
+    * [endgame](https://github.com/brandongalbraith/endgame) -- An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account - or share the resources with the entire internet 😈
   * General Utilities
     * [coldsnap](https://github.com/awslabs/coldsnap) -- A command line interface for Amazon EBS snapshots
     * [lsh](https://github.com/tobilg/lsh) -- Run interactive shell commands on AWS Lambda
