@@ -47,6 +47,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 
 * Secret Scanning
   * [DumpsterDiver](https://github.com/securing/DumpsterDiver) -- Tool to search secrets in various filetypes.
+  * [ebs-direct-sec-tools(https://github.com/crypsisgroup/ebs-direct-sec-tools) -- Uses EBS Direct API to scan blocks for secrets
 
  * Azure
    * [CRT](https://github.com/CrowdStrike/CRT) -- This tool queries the following configurations in the Azure AD/O365 tenant which can shed light on hard to find permissions and configuration settings in order to assist organizations in securing these environments.
