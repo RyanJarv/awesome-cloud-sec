@@ -10,25 +10,29 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [aws_managed_policies](https://github.com/z0ph/aws_managed_policies) -- [MAMIP] Monitor AWS Managed IAM Policies Changes
     * [Security Tool Comparison](https://summitroute.github.io/aws_research/security_tool_comparison.html) -- Comparisons between various security tools.
   * Offensive Security
+    * [pacu](https://github.com/RhinoSecurityLabs/pacu) -- The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
     * [aws_pwn](https://github.com/dagrz/aws_pwn) -- A collection of AWS penetration testing junk.
     * [IAMFinder](https://github.com/prisma-cloud/IAMFinder) -- Enumerates and finds users and IAM roles in a target AWS account.
     * [enumerate-iam](https://github.com/andresriancho/enumerate-iam) -- Brute force enumeration of permissions associated with AWS credential set.
   * General Utilities
     * [coldsnap](https://github.com/awslabs/coldsnap) -- A command line interface for Amazon EBS snapshots
     * [lsh](https://github.com/tobilg/lsh) -- Run interactive shell commands on AWS Lambda
-  * Resource analysis
-    * [awspx](https://github.com/FSecureLABS/awspx) -- Graph-based tool for visualizing effective access and resource relationships.
-    * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- [Graphing] Analyze your Amazon Web Services (AWS) environments
-    * [cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) -- [Graphing] Discover resources in the cloud environment.
-      * Note: Takes advantage of existing botocore definitions for discovery.
-    * [PMapper](https://github.com/nccgroup/PMapper) -- A tool for quickly evaluating IAM permissions in AWS.
+  * Offline Web Console's
     * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
-    * [cartography](https://github.com/lyft/cartography) -- Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+  * Resource analysis
+    * [awspx](https://github.com/FSecureLABS/awspx) -- Graph-based tool for visualizing effective access and resource relationships.    
+    * [PMapper](https://github.com/nccgroup/PMapper) -- A tool for quickly evaluating IAM permissions in AWS.
+  * Visual Resource Graphing
     * [cloudsplaining](https://github.com/salesforce/cloudsplaining) -- Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+    * [cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) -- [Graphing] Discover resources in the cloud environment.
+    * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- [Graphing] Analyze your Amazon Web Services (AWS) environments
+      * Note: Takes advantage of existing botocore definitions for discovery.
+    * [cartography](https://github.com/lyft/cartography) -- Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
   * Linting/Static Analysis
       * [parliament](https://github.com/duo-labs/parliament) -- AWS IAM linting library
-  * Auditing/Least privilege
+  * Auditing
     * [prowler](https://github.com/toniblyx/prowler) -- Best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
+  * Least privilege
     * [policy_sentry](https://github.com/salesforce/policy_sentry) -- IAM Least Privilege Policy Generator.
     * [repokid](https://github.com/Netflix/repokid) -- IAM least privilege service
     * [cloudtracker](https://github.com/duo-labs/cloudtracker) -- Finds over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
@@ -54,6 +58,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 
  * Containers
    * [deepce](https://github.com/stealthcopter/deepce/) -- Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE).
+   * [ccat](https://github.com/RhinoSecurityLabs/ccat) -- Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
 
  * Networking
    * [proxify](https://github.com/projectdiscovery/proxify) -- Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
