@@ -29,10 +29,12 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- [Graphing] Analyze your Amazon Web Services (AWS) environments
       * Note: Takes advantage of existing botocore definitions for discovery.
     * [cartography](https://github.com/lyft/cartography) -- Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+    * [hammer](https://github.com/dowjones/hammer) -- https://github.com/dowjones/hammer
   * Linting/Static Analysis
       * [parliament](https://github.com/duo-labs/parliament) -- AWS IAM linting library
   * Auditing
     * [prowler](https://github.com/toniblyx/prowler) -- Best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
+    * [AWS Config](https://aws.amazon.com/config/) -- Lambda's that analyze resource state and changes, primarily in AWS but extensible
   * Least privilege
     * [policy_sentry](https://github.com/salesforce/policy_sentry) -- IAM Least Privilege Policy Generator.
     * [repokid](https://github.com/Netflix/repokid) -- IAM least privilege service
@@ -83,6 +85,9 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
    * [opa](https://github.com/open-policy-agent/opa) -- An open source, general-purpose policy engine.
    * [fregot](https://github.com/fugue/fregot) -- Alternative REPL to OPA's built-in interpreter.
    * [policy-hub-cli](https://github.com/policy-hub/policy-hub-cli) -- CLI for searching Rego policies
+
+* Windows
+   * (BloodHound)[https://github.com/BloodHoundAD/BloodHound] -- Six Degrees of Domain Admin
 
  * Other
    * [exec-template](https://github.com/groob/exec-template) -- Super simple go templater.
