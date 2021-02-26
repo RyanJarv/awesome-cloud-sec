@@ -24,7 +24,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [awspx](https://github.com/FSecureLABS/awspx) -- Graph-based tool for visualizing effective access and resource relationships.    
     * [PMapper](https://github.com/nccgroup/PMapper) -- A tool for quickly evaluating IAM permissions in AWS.
   * Resource DBs
-    * [steampipe](https://steampipe.io/)
+    * [steampipe](https://steampipe.io/) -- https://github.com/turbot/steampipe
   * Visual Resource Graphing
     * [cloudsplaining](https://github.com/salesforce/cloudsplaining) -- Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
     * [cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) -- [Graphing] Discover resources in the cloud environment.
