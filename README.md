@@ -31,6 +31,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- [Graphing] Analyze your Amazon Web Services (AWS) environments
       * Note: Takes advantage of existing botocore definitions for discovery.
     * [cartography](https://github.com/lyft/cartography) -- Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+    * [cloudquery](https://github.com/cloudquery/cloudquery) -- cloudquery transforms your cloud infrastructure into SQL or Graph database for easy monitoring, governance and security.
     * [hammer](https://github.com/dowjones/hammer) -- https://github.com/dowjones/hammer
   * Linting/Static Analysis
       * [parliament](https://github.com/duo-labs/parliament) -- AWS IAM linting library
