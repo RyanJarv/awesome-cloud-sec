@@ -32,8 +32,8 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [cloudquery](https://github.com/cloudquery/cloudquery) -- cloudquery transforms your cloud infrastructure into SQL or Graph database for easy monitoring, governance and security.
   * Visual Resource Graphing
     * [cloudsplaining](https://github.com/salesforce/cloudsplaining) -- Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-    * [cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) -- [Graphing] Discover resources in the cloud environment.
-    * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- [Graphing] Analyze your Amazon Web Services (AWS) environments
+    * [cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) -- Discover resources in the cloud environment.
+    * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- Analyze your Amazon Web Services (AWS) environments
       * Note: Takes advantage of existing botocore definitions for discovery.
     * [hammer](https://github.com/dowjones/hammer) -- Dow Jones Hammer : Protect the cloud with the power of the cloud(AWS)
   * Linting/Static Analysis
