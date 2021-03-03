@@ -36,6 +36,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * Linting/Static Analysis
       * [parliament](https://github.com/duo-labs/parliament) -- AWS IAM linting library
   * Auditing
+    * [rpCheckup](https://github.com/goldfiglabs/rpCheckup) -- rpCheckup is an AWS resource policy security checkup tool that identifies public, external account access, intra-org account access, and private resources.
     * [prowler](https://github.com/toniblyx/prowler) -- Best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
     * [AWS Config](https://aws.amazon.com/config/) -- Lambda's that analyze resource state and changes, primarily in AWS but extensible
   * Least privilege
