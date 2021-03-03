@@ -80,7 +80,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
    * [serverlessish](https://github.com/glassechidna/serverlessish) -- Run the same Docker images in AWS Lambda and AWS ECS
 
  * Infrastructure
-   * [website-openid-proxy](https://github.com/wolfeidau/website-openid-proxy) -- https://github.com/wolfeidau/website-openid-proxy
+   * [website-openid-proxy](https://github.com/wolfeidau/website-openid-proxy) -- This service provides authenticated access to a static website hosted in an s3 bucket.
 
  * Config
    * https://asecure.cloud/l/p_conformance_packs/
