@@ -19,6 +19,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [coldsnap](https://github.com/awslabs/coldsnap) -- A command line interface for Amazon EBS snapshots
     * [lsh](https://github.com/tobilg/lsh) -- Run interactive shell commands on AWS Lambda
     * [dsnap](https://github.com/RhinoSecurityLabs/dsnap) -- Utility for downloading and mounting EBS snapshots using the EBS Direct API's
+    * [former2](https://github.com/iann0036/former2) -- Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
   * Offline Web Console's
     * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
   * Resource analysis
