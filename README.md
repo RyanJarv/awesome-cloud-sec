@@ -28,13 +28,13 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * Resource DBs
     * [steampipe](https://steampipe.io/) -- The extensible SQL interface to your favorite cloud APIs.
     * [introspector](https://github.com/goldfiglabs/introspector) -- A schema and set of tools for using SQL to query cloud infrastructure
+    * [cartography](https://github.com/lyft/cartography) -- Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+    * [cloudquery](https://github.com/cloudquery/cloudquery) -- cloudquery transforms your cloud infrastructure into SQL or Graph database for easy monitoring, governance and security.
   * Visual Resource Graphing
     * [cloudsplaining](https://github.com/salesforce/cloudsplaining) -- Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
     * [cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) -- [Graphing] Discover resources in the cloud environment.
     * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- [Graphing] Analyze your Amazon Web Services (AWS) environments
       * Note: Takes advantage of existing botocore definitions for discovery.
-    * [cartography](https://github.com/lyft/cartography) -- Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
-    * [cloudquery](https://github.com/cloudquery/cloudquery) -- cloudquery transforms your cloud infrastructure into SQL or Graph database for easy monitoring, governance and security.
     * [hammer](https://github.com/dowjones/hammer) -- Dow Jones Hammer : Protect the cloud with the power of the cloud(AWS)
   * Linting/Static Analysis
       * [parliament](https://github.com/duo-labs/parliament) -- AWS IAM linting library
