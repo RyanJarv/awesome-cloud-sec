@@ -27,6 +27,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [PMapper](https://github.com/nccgroup/PMapper) -- A tool for quickly evaluating IAM permissions in AWS.
   * Resource DBs
     * [steampipe](https://steampipe.io/) -- The extensible SQL interface to your favorite cloud APIs.
+    * [introspector](https://github.com/goldfiglabs/introspector) -- A schema and set of tools for using SQL to query cloud infrastructure
   * Visual Resource Graphing
     * [cloudsplaining](https://github.com/salesforce/cloudsplaining) -- Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
     * [cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) -- [Graphing] Discover resources in the cloud environment.
