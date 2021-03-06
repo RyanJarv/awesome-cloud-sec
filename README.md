@@ -25,6 +25,8 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * Resource analysis
     * [awspx](https://github.com/FSecureLABS/awspx) -- Graph-based tool for visualizing effective access and resource relationships.    
     * [PMapper](https://github.com/nccgroup/PMapper) -- A tool for quickly evaluating IAM permissions in AWS.
+    * [aws_public_ips](https://github.com/arkadiyt/aws_public_ips) -- Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
+      * Fork that handles multiple regions: https://github.com/breser/aws_public_ips
   * Resource DBs
     * [steampipe](https://steampipe.io/) -- The extensible SQL interface to your favorite cloud APIs.
     * [introspector](https://github.com/goldfiglabs/introspector) -- A schema and set of tools for using SQL to query cloud infrastructure
