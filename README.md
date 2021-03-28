@@ -53,6 +53,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 
 * Kubernetes
   * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+  * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -- Hunt for security weaknesses in Kubernetes clusters
 
 * Terraform
   * Terraform Static Analysis
