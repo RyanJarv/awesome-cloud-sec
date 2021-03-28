@@ -51,6 +51,9 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [iamlive](https://github.com/iann0036/iamlive) -- Generate a basic IAM policy from AWS client-side monitoring (CSM)
     * [aws-leastprivilege](https://github.com/iann0036/aws-leastprivilege) -- Generates an IAM policy for the CloudFormation service role that adheres to least privilege.
 
+* Kubernetes
+  * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+
 * Terraform
   * Terraform Static Analysis
     * [checkov](https://github.com/bridgecrewio/checkov) -- Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
