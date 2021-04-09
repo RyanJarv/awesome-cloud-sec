@@ -1,5 +1,5 @@
 # awesome-aws-sec
-Awesome list for cloud (mostly AWS), security, pentesting related projects and libraries.
+Awesome list for cloud (mostly AWS at the moment), security, pentesting related projects and libraries.
 
 NOTE: This isn't an endorsement of any of these projects. I'm mostly using this as a way to keep track of interesting projects I come across.
 
