@@ -44,6 +44,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [rpCheckup](https://github.com/goldfiglabs/rpCheckup) -- rpCheckup is an AWS resource policy security checkup tool that identifies public, external account access, intra-org account access, and private resources.
     * [prowler](https://github.com/toniblyx/prowler) -- Best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
     * [AWS Config](https://aws.amazon.com/config/) -- Lambda's that analyze resource state and changes, primarily in AWS but extensible
+    * [cloudsploit](https://github.com/aquasecurity/cloudsploit) -- Cloud Security Posture Management (CSPM)
   * Least privilege
     * [policy_sentry](https://github.com/salesforce/policy_sentry) -- IAM Least Privilege Policy Generator.
     * [repokid](https://github.com/Netflix/repokid) -- IAM least privilege service
@@ -64,6 +65,8 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) -- AWS Organizations Service Control Policies (SCPs) for Terraform.
   
 
+* GCP
+  * [pydevops](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97) -- gcp gcloud cheat sheet
 
 * Secret Scanning
   * [DumpsterDiver](https://github.com/securing/DumpsterDiver) -- Tool to search secrets in various filetypes.
