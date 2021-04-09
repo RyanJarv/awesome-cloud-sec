@@ -69,6 +69,9 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [pydevops](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97) -- gcp gcloud cheat sheet
   * [GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) -- A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.
 
+* Azure
+  * [how to applied purple teaming lab build on azure with terraform](https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/)
+
 * Secret Scanning
   * [DumpsterDiver](https://github.com/securing/DumpsterDiver) -- Tool to search secrets in various filetypes.
   * [ebs-direct-sec-tools](https://github.com/crypsisgroup/ebs-direct-sec-tools) -- Uses EBS Direct API to scan blocks for secrets
@@ -95,8 +98,6 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
  * Config
    * https://asecure.cloud/l/p_conformance_packs/
 
- * Learning Environments
-   * https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/
 
  * Opa
    * [opa](https://github.com/open-policy-agent/opa) -- An open source, general-purpose policy engine.
@@ -104,7 +105,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
    * [policy-hub-cli](https://github.com/policy-hub/policy-hub-cli) -- CLI for searching Rego policies
 
 * Windows
-   * (BloodHound)[https://github.com/BloodHoundAD/BloodHound] -- Six Degrees of Domain Admin
+   * [BloodHound](https://github.com/BloodHoundAD/BloodHound) -- Six Degrees of Domain Admin
 
  * Other
    * [exec-template](https://github.com/groob/exec-template) -- Super simple go templater.
