@@ -55,6 +55,10 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 * Kubernetes
   * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
   * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -- Hunt for security weaknesses in Kubernetes clusters
+  * [kubeaudit](https://github.com/Shopify/kubeaudit) -- kubeaudit helps you audit your Kubernetes clusters against common security controls
+  * [kubiscan](https://github.com/cyberark/KubiScan) -- A tool to scan Kubernetes cluster for risky permissions
+  * [kubesploit](https://github.com/cyberark/kubesploit) -- Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
+  * [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) -- Tool for auditing RBACs in Kubernetes
 
 * Terraform
   * Terraform Static Analysis
