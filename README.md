@@ -38,6 +38,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [cloudmapper](https://github.com/duo-labs/cloudmapper) -- Analyze your Amazon Web Services (AWS) environments
       * Note: Takes advantage of existing botocore definitions for discovery.
     * [hammer](https://github.com/dowjones/hammer) -- Dow Jones Hammer : Protect the cloud with the power of the cloud(AWS)
+    * [cloudscout](https://github.com/SygniaLabs/security-cloud-scout) -- Identify and visualize cross platform attack paths, vulnerabilities, and enhance overall resilience.
   * Linting/Static Analysis
       * [parliament](https://github.com/duo-labs/parliament) -- AWS IAM linting library
   * Auditing
