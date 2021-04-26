@@ -46,6 +46,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [prowler](https://github.com/toniblyx/prowler) -- Best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
     * [AWS Config](https://aws.amazon.com/config/) -- Lambda's that analyze resource state and changes, primarily in AWS but extensible
     * [cloudsploit](https://github.com/aquasecurity/cloudsploit) -- Cloud Security Posture Management (CSPM)
+    * [smogcloud](https://github.com/BishopFox/smogcloud) -- Find cloud assets that no one wants exposed 🔎 ☁️
   * Least privilege
     * [policy_sentry](https://github.com/salesforce/policy_sentry) -- IAM Least Privilege Policy Generator.
     * [repokid](https://github.com/Netflix/repokid) -- IAM least privilege service
