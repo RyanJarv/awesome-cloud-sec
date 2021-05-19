@@ -54,8 +54,8 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [iamlive](https://github.com/iann0036/iamlive) -- Generate a basic IAM policy from AWS client-side monitoring (CSM)
     * [aws-leastprivilege](https://github.com/iann0036/aws-leastprivilege) -- Generates an IAM policy for the CloudFormation service role that adheres to least privilege.
   * Vulnerable by design
-    * [https://github.com/RhinoSecurityLabs/cloudgoat](cloudgoat) -- CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
-    * [https://github.com/bridgecrewio/terragoat](terragoat) -- TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
+    * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) -- CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+    * [terragoat](https://github.com/bridgecrewio/terragoat) -- TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
 
 * Kubernetes
   * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
