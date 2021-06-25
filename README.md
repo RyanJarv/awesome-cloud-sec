@@ -15,11 +15,13 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [IAMFinder](https://github.com/prisma-cloud/IAMFinder) -- Enumerates and finds users and IAM roles in a target AWS account.
     * [enumerate-iam](https://github.com/andresriancho/enumerate-iam) -- Brute force enumeration of permissions associated with AWS credential set.
     * [endgame](https://github.com/brandongalbraith/endgame) -- An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account - or share the resources with the entire internet 😈
+    * [WeirdAAL](https://github.com/carnal0wnage/weirdAAL) -- WeirdAAL (AWS Attack Library)
   * General Utilities
     * [coldsnap](https://github.com/awslabs/coldsnap) -- A command line interface for Amazon EBS snapshots
     * [lsh](https://github.com/tobilg/lsh) -- Run interactive shell commands on AWS Lambda
     * [dsnap](https://github.com/RhinoSecurityLabs/dsnap) -- Utility for downloading and mounting EBS snapshots using the EBS Direct API's
     * [former2](https://github.com/iann0036/former2) -- Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
+    * [cognitocurl](https://github.com/nordcloud/cognitocurl) -- 🦉🤖Easily sign curl calls to API Gateway with Cognito authorization token.
   * Offline Web Console's
     * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
   * Resource analysis
@@ -53,6 +55,9 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
     * [cloudtracker](https://github.com/duo-labs/cloudtracker) -- Finds over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
     * [iamlive](https://github.com/iann0036/iamlive) -- Generate a basic IAM policy from AWS client-side monitoring (CSM)
     * [aws-leastprivilege](https://github.com/iann0036/aws-leastprivilege) -- Generates an IAM policy for the CloudFormation service role that adheres to least privilege.
+  * Route53DB
+    * [cloudjack](https://github.com/prevade/cloudjack) -- Route53/CloudFront Vulnerability Assessment Utility
+
   * Vulnerable by design
     * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) -- CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
     * [terragoat](https://github.com/bridgecrewio/terragoat) -- TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
@@ -87,6 +92,9 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 
  * Azure
    * [CRT](https://github.com/CrowdStrike/CRT) -- This tool queries the following configurations in the Azure AD/O365 tenant which can shed light on hard to find permissions and configuration settings in order to assist organizations in securing these environments.
+   * [security-cloud-scout](https://github.com/SygniaLabs/security-cloud-scout) -- Cross-Cloud AWS/Azure
+
+
 
  * Containers
    * [deepce](https://github.com/stealthcopter/deepce/) -- Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE).
@@ -113,6 +121,9 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
    * [fregot](https://github.com/fugue/fregot) -- Alternative REPL to OPA's built-in interpreter.
    * [policy-hub-cli](https://github.com/policy-hub/policy-hub-cli) -- CLI for searching Rego policies
 
+* Secrets
+  * [detect-secrets](https://github.com/Yelp/detect-secrets) -- An enterprise friendly way of detecting and preventing secrets in code.
+
 * Windows
    * [BloodHound](https://github.com/BloodHoundAD/BloodHound) -- Six Degrees of Domain Admin
 
@@ -120,4 +131,6 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
    * [exec-template](https://github.com/groob/exec-template) -- Super simple go templater.
    * [leapp](https://github.com/Noovolari/leapp) -- Potential alternative to aws-vault
 
+* Linux
+  * [ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) -- Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 
