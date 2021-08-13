@@ -61,6 +61,8 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * Vulnerable by design
     * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) -- CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
     * [terragoat](https://github.com/bridgecrewio/terragoat) -- TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
+  * SAML
+    * [shimit](https://github.com/cyberark/shimit) -- A tool that implements the Golden SAML attack
 
 * Kubernetes
   * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
