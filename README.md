@@ -64,6 +64,9 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * SAML
     * [shimit](https://github.com/cyberark/shimit) -- A tool that implements the Golden SAML attack
 
+* DNS
+  * [subfinder](https://github.com/projectdiscovery/subfinder) -- Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+
 * Kubernetes
   * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
   * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -- Hunt for security weaknesses in Kubernetes clusters
