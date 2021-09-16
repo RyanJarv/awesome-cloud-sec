@@ -68,6 +68,16 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 * DNS
   * [subfinder](https://github.com/projectdiscovery/subfinder) -- Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 
+* Subdomain Enumeration
+  * [ctfr](https://github.com/UnaPibaGeek/ctfr) -- Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
+
+* Subdomain Takeover
+  * [subdover](https://github.com/PushpenderIndia/subdover) -- Subdover is a MultiThreaded Subdomain Takeover Vulnerability Scanner Written In Python3
+  * [cloudjack](https://github.com/prevade/cloudjack) -- Route53/CloudFront Vulnerability Assessment Utility
+  * [https://github.com/EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) -- "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
+  * [takeover](https://github.com/m4ll0k/takeover) -- Sub-Domain TakeOver Vulnerability Scanner
+  * [SubOver](https://github.com/Ice3man543/SubOver) -- A Powerful Subdomain Takeover Tool
+
 * Kubernetes
   * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
   * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -- Hunt for security weaknesses in Kubernetes clusters
