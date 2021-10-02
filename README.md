@@ -35,6 +35,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [PMapper](https://github.com/nccgroup/PMapper) -- A tool for quickly evaluating IAM permissions in AWS.
   * [aws_public_ips](https://github.com/arkadiyt/aws_public_ips) -- Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
     * Fork that handles multiple regions: https://github.com/breser/aws_public_ips
+
 ### Resource DBs
   * [steampipe](https://steampipe.io/) -- The extensible SQL interface to your favorite cloud APIs.
   * [introspector](https://github.com/goldfiglabs/introspector) -- A schema and set of tools for using SQL to query cloud infrastructure
@@ -50,7 +51,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [cloudscout](https://github.com/SygniaLabs/security-cloud-scout) -- Identify and visualize cross platform attack paths, vulnerabilities, and enhance overall resilience.
 
 ### Linting/Static Analysis
-    * [parliament](https://github.com/duo-labs/parliament) -- AWS IAM linting library
+  * [parliament](https://github.com/duo-labs/parliament) -- AWS IAM linting library
 
 ### Auditing
   * [rpCheckup](https://github.com/goldfiglabs/rpCheckup) -- rpCheckup is an AWS resource policy security checkup tool that identifies public, external account access, intra-org account access, and private resources.
@@ -58,13 +59,15 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [AWS Config](https://aws.amazon.com/config/) -- Lambda's that analyze resource state and changes, primarily in AWS but extensible
   * [cloudsploit](https://github.com/aquasecurity/cloudsploit) -- Cloud Security Posture Management (CSPM)
   * [smogcloud](https://github.com/BishopFox/smogcloud) -- Find cloud assets that no one wants exposed 🔎 ☁️
-* Least privilege
+
+### Least privilege
   * [policy_sentry](https://github.com/salesforce/policy_sentry) -- IAM Least Privilege Policy Generator.
   * [repokid](https://github.com/Netflix/repokid) -- IAM least privilege service
   * [cloudtracker](https://github.com/duo-labs/cloudtracker) -- Finds over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
   * [iamlive](https://github.com/iann0036/iamlive) -- Generate a basic IAM policy from AWS client-side monitoring (CSM)
   * [aws-leastprivilege](https://github.com/iann0036/aws-leastprivilege) -- Generates an IAM policy for the CloudFormation service role that adheres to least privilege.
-* Route53DB
+
+### Route53DB
   * [cloudjack](https://github.com/prevade/cloudjack) -- Route53/CloudFront Vulnerability Assessment Utility
 
 ### Vulnerable by design
