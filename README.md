@@ -80,74 +80,74 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [subfinder](https://github.com/projectdiscovery/subfinder) -- Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 
 ### Subdomain Enumeration
- * [ctfr](https://github.com/UnaPibaGeek/ctfr) -- Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
+  * [ctfr](https://github.com/UnaPibaGeek/ctfr) -- Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
 
 ### Subdomain Takeover
- * [subdover](https://github.com/PushpenderIndia/subdover) -- Subdover is a MultiThreaded Subdomain Takeover Vulnerability Scanner Written In Python3
- * [cloudjack](https://github.com/prevade/cloudjack) -- Route53/CloudFront Vulnerability Assessment Utility
- * [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) -- "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
- * [takeover](https://github.com/m4ll0k/takeover) -- Sub-Domain TakeOver Vulnerability Scanner
- * [SubOver](https://github.com/Ice3man543/SubOver) -- A Powerful Subdomain Takeover Tool
+  * [subdover](https://github.com/PushpenderIndia/subdover) -- Subdover is a MultiThreaded Subdomain Takeover Vulnerability Scanner Written In Python3
+  * [cloudjack](https://github.com/prevade/cloudjack) -- Route53/CloudFront Vulnerability Assessment Utility
+  * [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) -- "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
+  * [takeover](https://github.com/m4ll0k/takeover) -- Sub-Domain TakeOver Vulnerability Scanner
+  * [SubOver](https://github.com/Ice3man543/SubOver) -- A Powerful Subdomain Takeover Tool
 
 ### Kubernetes
- * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
- * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -- Hunt for security weaknesses in Kubernetes clusters
- * [kubeaudit](https://github.com/Shopify/kubeaudit) -- kubeaudit helps you audit your Kubernetes clusters against common security controls
- * [kubiscan](https://github.com/cyberark/KubiScan) -- A tool to scan Kubernetes cluster for risky permissions
- * [kubesploit](https://github.com/cyberark/kubesploit) -- Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
- * [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) -- Tool for auditing RBACs in Kubernetes
- * [peirates](https://github.com/inguardians/peirates) -- Peirates - Kubernetes Penetration Testing tool
+  * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+  * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -- Hunt for security weaknesses in Kubernetes clusters
+  * [kubeaudit](https://github.com/Shopify/kubeaudit) -- kubeaudit helps you audit your Kubernetes clusters against common security controls
+  * [kubiscan](https://github.com/cyberark/KubiScan) -- A tool to scan Kubernetes cluster for risky permissions
+  * [kubesploit](https://github.com/cyberark/kubesploit) -- Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
+  * [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) -- Tool for auditing RBACs in Kubernetes
+  * [peirates](https://github.com/inguardians/peirates) -- Peirates - Kubernetes Penetration Testing tool
 
 
   
 
 ## GCP
-* [pydevops](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97) -- gcp gcloud cheat sheet
-* [GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) -- A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
-* [terraformer](https://github.com/GoogleCloudPlatform/terraformer) -- CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  * [pydevops](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97) -- gcp gcloud cheat sheet
+  * [GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) -- A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.
+  * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
+  * [terraformer](https://github.com/GoogleCloudPlatform/terraformer) -- CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 
 
 ## Azure
-* [CRT](https://github.com/CrowdStrike/CRT) -- This tool queries the following configurations in the Azure AD/O365 tenant which can shed light on hard to find permissions and configuration settings in order to assist organizations in securing these environments.
-* [security-cloud-scout](https://github.com/SygniaLabs/security-cloud-scout) -- Cross-Cloud AWS/Azure
-* [how to applied purple teaming lab build on azure with terraform](https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/)
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
+  * [CRT](https://github.com/CrowdStrike/CRT) -- This tool queries the following configurations in the Azure AD/O365 tenant which can shed light on hard to find permissions and configuration settings in order to assist organizations in securing these environments.
+  * [security-cloud-scout](https://github.com/SygniaLabs/security-cloud-scout) -- Cross-Cloud AWS/Azure
+  * [how to applied purple teaming lab build on azure with terraform](https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/)
+  * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
 
-* Secret Scanning
- * [DumpsterDiver](https://github.com/securing/DumpsterDiver) -- Tool to search secrets in various filetypes.
- * [ebs-direct-sec-tools](https://github.com/crypsisgroup/ebs-direct-sec-tools) -- Uses EBS Direct API to scan blocks for secrets
+### Secret Scanning
+  * [DumpsterDiver](https://github.com/securing/DumpsterDiver) -- Tool to search secrets in various filetypes.
+  * [ebs-direct-sec-tools](https://github.com/crypsisgroup/ebs-direct-sec-tools) -- Uses EBS Direct API to scan blocks for secrets
 
 
 
 ## Terraform
-* Terraform Static Analysis
-  * [checkov](https://github.com/bridgecrewio/checkov) -- Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-  * [terrascan](https://github.com/accurics/terrascan)
-    * Related: [KaiMonkey](https://github.com/accurics/KaiMonkey)  
-  * [tfsec](https://github.com/aquasecurity/tfsec) -- Security scanner for your Terraform code
-  * [kics](https://github.com/Checkmarx/kics) -- Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
-* [AirIAM](https://github.com/bridgecrewio/AirIAM) -- Least privilege AWS IAM Terraformer.
-* [terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) -- AWS Organizations Service Control Policies (SCPs) for Terraform.
-* [terraformer](https://github.com/GoogleCloudPlatform/terraformer) -- CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  * Terraform Static Analysis
+    * [checkov](https://github.com/bridgecrewio/checkov) -- Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+    * [terrascan](https://github.com/accurics/terrascan)
+      * Related: [KaiMonkey](https://github.com/accurics/KaiMonkey)  
+    * [tfsec](https://github.com/aquasecurity/tfsec) -- Security scanner for your Terraform code
+    * [kics](https://github.com/Checkmarx/kics) -- Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
+  * [AirIAM](https://github.com/bridgecrewio/AirIAM) -- Least privilege AWS IAM Terraformer.
+  * [terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) -- AWS Organizations Service Control Policies (SCPs) for Terraform.
+  * [terraformer](https://github.com/GoogleCloudPlatform/terraformer) -- CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 
 
 
 ## Containers
-* [deepce](https://github.com/stealthcopter/deepce/) -- Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE).
-* [ccat](https://github.com/RhinoSecurityLabs/ccat) -- Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
-* [trivy](https://github.com/aquasecurity/trivy) -- Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+  * [deepce](https://github.com/stealthcopter/deepce/) -- Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE).
+  * [ccat](https://github.com/RhinoSecurityLabs/ccat) -- Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
+  * [trivy](https://github.com/aquasecurity/trivy) -- Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 
 ## Open Policy Agent (OPA)
-* [opa](https://github.com/open-policy-agent/opa) -- An open source, general-purpose policy engine.
-* [fregot](https://github.com/fugue/fregot) -- Alternative REPL to OPA's built-in interpreter.
-* [policy-hub-cli](https://github.com/policy-hub/policy-hub-cli) -- CLI for searching Rego policies
-* [conftest](https://github.com/open-policy-agent/conftest) -- Write tests against structured configuration data using the Open Policy Agent Rego query language
+  * [opa](https://github.com/open-policy-agent/opa) -- An open source, general-purpose policy engine.
+  * [fregot](https://github.com/fugue/fregot) -- Alternative REPL to OPA's built-in interpreter.
+  * [policy-hub-cli](https://github.com/policy-hub/policy-hub-cli) -- CLI for searching Rego policies
+  * [conftest](https://github.com/open-policy-agent/conftest) -- Write tests against structured configuration data using the Open Policy Agent Rego query language
 
 ## Other
-* [website-openid-proxy](https://github.com/wolfeidau/website-openid-proxy) -- This service provides authenticated access to a static website hosted in an s3 bucket.
-* [Config Conformance Packs](https://asecure.cloud/l/p_conformance_packs/)
-* [detect-secrets](https://github.com/Yelp/detect-secrets) -- An enterprise friendly way of detecting and preventing secrets in code.
+  * [website-openid-proxy](https://github.com/wolfeidau/website-openid-proxy) -- This service provides authenticated access to a static website hosted in an s3 bucket.
+  * [Config Conformance Packs](https://asecure.cloud/l/p_conformance_packs/)
+  * [detect-secrets](https://github.com/Yelp/detect-secrets) -- An enterprise friendly way of detecting and preventing secrets in code.
 
 ## Other non-cloudsec stuff (TODO: move this elsewhere)
 
