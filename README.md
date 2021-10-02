@@ -3,7 +3,7 @@ Awesome list for cloud (mostly AWS at the moment), security, pentesting related 
 
 NOTE: This isn't an endorsement of any of these projects. I'm mostly using this as a way to keep track of interesting projects I come across.
 
-## AWS
+# AWS
 
 ### Info
   * [aws_exposable_resources](https://github.com/SummitRoute/aws_exposable_resources) -- Resource types that can be publicly exposed on AWS
@@ -89,7 +89,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [takeover](https://github.com/m4ll0k/takeover) -- Sub-Domain TakeOver Vulnerability Scanner
   * [SubOver](https://github.com/Ice3man543/SubOver) -- A Powerful Subdomain Takeover Tool
 
-### Kubernetes
+# Kubernetes
   * [cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
   * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -- Hunt for security weaknesses in Kubernetes clusters
   * [kubeaudit](https://github.com/Shopify/kubeaudit) -- kubeaudit helps you audit your Kubernetes clusters against common security controls
@@ -101,26 +101,26 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 
   
 
-## GCP
+# GCP
   * [pydevops](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97) -- gcp gcloud cheat sheet
   * [GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) -- A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.
   * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
   * [terraformer](https://github.com/GoogleCloudPlatform/terraformer) -- CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 
 
-## Azure
+# Azure
   * [CRT](https://github.com/CrowdStrike/CRT) -- This tool queries the following configurations in the Azure AD/O365 tenant which can shed light on hard to find permissions and configuration settings in order to assist organizations in securing these environments.
   * [security-cloud-scout](https://github.com/SygniaLabs/security-cloud-scout) -- Cross-Cloud AWS/Azure
   * [how to applied purple teaming lab build on azure with terraform](https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/)
   * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
 
+# Other
+
 ### Secret Scanning
   * [DumpsterDiver](https://github.com/securing/DumpsterDiver) -- Tool to search secrets in various filetypes.
   * [ebs-direct-sec-tools](https://github.com/crypsisgroup/ebs-direct-sec-tools) -- Uses EBS Direct API to scan blocks for secrets
 
-
-
-## Terraform
+### Terraform
   * Terraform Static Analysis
     * [checkov](https://github.com/bridgecrewio/checkov) -- Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
     * [terrascan](https://github.com/accurics/terrascan)
@@ -131,41 +131,29 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) -- AWS Organizations Service Control Policies (SCPs) for Terraform.
   * [terraformer](https://github.com/GoogleCloudPlatform/terraformer) -- CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 
-
-
-## Containers
+### Containers
   * [deepce](https://github.com/stealthcopter/deepce/) -- Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE).
   * [ccat](https://github.com/RhinoSecurityLabs/ccat) -- Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
   * [trivy](https://github.com/aquasecurity/trivy) -- Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 
-## Open Policy Agent (OPA)
+### Open Policy Agent (OPA)
   * [opa](https://github.com/open-policy-agent/opa) -- An open source, general-purpose policy engine.
   * [fregot](https://github.com/fugue/fregot) -- Alternative REPL to OPA's built-in interpreter.
   * [policy-hub-cli](https://github.com/policy-hub/policy-hub-cli) -- CLI for searching Rego policies
   * [conftest](https://github.com/open-policy-agent/conftest) -- Write tests against structured configuration data using the Open Policy Agent Rego query language
 
-## Other
+### Misc
   * [website-openid-proxy](https://github.com/wolfeidau/website-openid-proxy) -- This service provides authenticated access to a static website hosted in an s3 bucket.
   * [Config Conformance Packs](https://asecure.cloud/l/p_conformance_packs/)
   * [detect-secrets](https://github.com/Yelp/detect-secrets) -- An enterprise friendly way of detecting and preventing secrets in code.
 
-## Other non-cloudsec stuff (TODO: move this elsewhere)
-
-### Networking
+### Non-CloudSec Stuff (TODO: move this elsewhere)
   * [proxify](https://github.com/projectdiscovery/proxify) -- Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
   * [CloudFail](https://github.com/m0rtem/CloudFail) -- Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network.
-
-### Development
   * [chalice](https://github.com/aws/chalice) -- Python Serverless Microframework for AWS
   * [placebo](https://github.com/garnaat/placebo) -- Make boto3 calls that look real but have no effect.
   * [serverlessish](https://github.com/glassechidna/serverlessish) -- Run the same Docker images in AWS Lambda and AWS ECS
-
-### Windows
   * [BloodHound](https://github.com/BloodHoundAD/BloodHound) -- Six Degrees of Domain Admin
-
-### Linux
   * [ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) -- Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
-
-### Other
   * [exec-template](https://github.com/groob/exec-template) -- Super simple go templater.
   * [leapp](https://github.com/Noovolari/leapp) -- Potential alternative to aws-vault
