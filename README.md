@@ -9,6 +9,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [aws_exposable_resources](https://github.com/SummitRoute/aws_exposable_resources) -- Resource types that can be publicly exposed on AWS
   * [aws_managed_policies](https://github.com/z0ph/aws_managed_policies) -- [MAMIP] Monitor AWS Managed IAM Policies Changes
   * [Security Tool Comparison](https://summitroute.github.io/aws_research/security_tool_comparison.html) -- Comparisons between various security tools.
+  * [aws-public-account-ids](https://github.com/rupertbg/aws-public-account-ids) -- Publicly-listed AWS account IDs for easy lookup. Great for cleaning up false positives from unknown Account IDs in Cloudtrail.
 
 ### Offensive Security
   * [pacu](https://github.com/RhinoSecurityLabs/pacu) -- The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
