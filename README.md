@@ -106,6 +106,10 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) -- A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.
   * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) -- Multi-Cloud Security Auditing Tool
   * [terraformer](https://github.com/GoogleCloudPlatform/terraformer) -- CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  * [gcp_enum](https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/gcp_enum) -- A simple bash script to enumerate Google Cloud Platform environments.
+  * [gcp_misc](https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/gcp_misc) -- Miscellaneous tools related to attack operations in Google Cloud Platform.
+  * [gcp_firewall_enum](https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/gcp_firewall_enum) -- Parse gcloud output to enumerate compute instances with network ports exposed to the Internet. Generates targeted nmap and masscan scripts based on the results.
+  * [gcp_k8s_enum](https://gitlab.com/gitlab-com/gl-security/security-operations/gl-redteam/gcp_k8s_enum) -- Enumerate services exposed via GKE.
 
 
 # Azure
