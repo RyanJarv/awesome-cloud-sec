@@ -13,6 +13,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 
 ### Offensive Security
   * [pacu](https://github.com/RhinoSecurityLabs/pacu) -- The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+  * [liquidswards](https://github.com/RyanJarv/liquidswards) -- Discover and maintain access to IAM roles.
   * [aws_pwn](https://github.com/dagrz/aws_pwn) -- A collection of AWS penetration testing junk.
   * [IAMFinder](https://github.com/prisma-cloud/IAMFinder) -- Enumerates and finds users and IAM roles in a target AWS account.
   * [enumerate-iam](https://github.com/andresriancho/enumerate-iam) -- Brute force enumeration of permissions associated with AWS credential set.
