@@ -99,6 +99,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [kubesploit](https://github.com/cyberark/kubesploit) -- Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
   * [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) -- Tool for auditing RBACs in Kubernetes
   * [peirates](https://github.com/inguardians/peirates) -- Peirates - Kubernetes Penetration Testing tool
+  * [cheatsheet](https://spacelift.io/blog/kubernetes-cheat-sheet) -- Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects
 
 
   
