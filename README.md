@@ -64,6 +64,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [AWS Config](https://aws.amazon.com/config/) -- Lambda's that analyze resource state and changes, primarily in AWS but extensible
   * [cloudsploit](https://github.com/aquasecurity/cloudsploit) -- Cloud Security Posture Management (CSPM)
   * [smogcloud](https://github.com/BishopFox/smogcloud) -- Find cloud assets that no one wants exposed 🔎 ☁️
+  * [cloud-audit](https://github.com/gebalamariusz/cloud-audit) -- Open-source AWS security scanner that detects attack chains and generates remediation code. 80 checks, CIS/SOC 2 compliance.
 
 ### Least privilege
   * [policy_sentry](https://github.com/salesforce/policy_sentry) -- IAM Least Privilege Policy Generator.
