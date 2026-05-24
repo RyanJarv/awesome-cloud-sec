@@ -38,6 +38,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
 * Resource analysis
   * [awspx](https://github.com/FSecureLABS/awspx) -- Graph-based tool for visualizing effective access and resource relationships.    
   * [PMapper](https://github.com/nccgroup/PMapper) -- A tool for quickly evaluating IAM permissions in AWS.
+* [CloudAuditX](https://auditor.pyralink.co.uk) -- Free multi-framework cloud security scanner for AWS. Audits across ISO 27001, NIST CSF 2.0, CIS, MITRE ATT&CK, STRIDE & SCF with no credentials.
   * [aws_public_ips](https://github.com/arkadiyt/aws_public_ips) -- Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
     * Fork that handles multiple regions: https://github.com/breser/aws_public_ips
 
