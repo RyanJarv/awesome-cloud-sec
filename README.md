@@ -15,6 +15,7 @@ NOTE: This isn't an endorsement of any of these projects. I'm mostly using this 
   * [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools#other-interesting-toolscode)
 
 ### Offensive Security
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform. 50 specialist agents over MCP, 80+ offensive tools, proof of exploitation on every finding, runs locally.
   * [pacu](https://github.com/RhinoSecurityLabs/pacu) -- The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
   * [liquidswards](https://github.com/RyanJarv/liquidswards) -- Discover and maintain access to IAM roles.
   * [aws_pwn](https://github.com/dagrz/aws_pwn) -- A collection of AWS penetration testing junk.
